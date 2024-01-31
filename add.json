@@ -1,0 +1,40 @@
+[
+    {
+
+
+    "id":1,
+    "image":"./1.0.1.jpg",
+    "title":"black jacket",
+    "price":200
+},
+    {
+        "id":2,
+    "image":"./1.0.2.jpg",
+    "title":"black jacket",
+    "price":200
+    },
+    {
+        "id":3,
+    "image":"./1.0.2.jpg",
+    "title":"black jacket",
+    "price":100
+    },
+    {
+        "id":4,
+    "image":"./1.0.2.jpg",
+    "title":"black jacket",
+    "price":50
+    },
+    {
+        "id":5,
+    "image":"./1.0.2.jpg",
+    "title":"black jacket",
+    "price":60
+    },
+    {
+        "id":6,
+    "image":"./1.0.2.jpg",
+    "title":"black jacket",
+    "price":80
+    }
+]
